@@ -1,0 +1,3 @@
+jinjamator-core>=0.10.0
+jinjamator-plugin-content-fsm>=0.9.0
+netmiko

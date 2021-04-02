@@ -1,0 +1,1 @@
+Jinjamator content plugin for running commands via ssh (uses netmiko and textfsm)
